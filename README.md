@@ -23,3 +23,5 @@ Esta será a nossa saída após clicarmos para fazer a análise, perceba que ele
 <div align="center">
  <img src="https://github.com/user-attachments/assets/f9b2bdfc-908b-47a4-811f-c215815e01be" width="700px" />
 </div>
+
+Por fim temos uma parte do texto que estará disponível por completo nesse repositório.
